@@ -1,5 +1,5 @@
 # wtf
-Blog pessoal sbre programação
+Blog pessoal sobre programação
 
 ## Commands
 * Teste local do blog
